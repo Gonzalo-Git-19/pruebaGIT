@@ -9,3 +9,4 @@ ping 8.8.8.8
 ```
 systemctl status nombre-servicio
 sudo systemctl restart nombre-servicio
+## Informacion del proyecto
