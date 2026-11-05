@@ -11,3 +11,5 @@ systemctl status nombre-servicio
 sudo systemctl restart nombre-servicio
 ## Informacion del proyecto
 ## Informacion desde Git Hub
+
+## Recomendaciones de seguridad
